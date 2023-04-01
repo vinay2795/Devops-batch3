@@ -1,0 +1,21 @@
+#how to initialize
+git init
+
+#how to add file from working directory to staging area
+git add <filename>
+
+#how to move file from staging to .git
+git commit -m "comment"
+
+#how to check log
+git log
+
+#how to check status
+git status
+
+#how ro restore deleted file
+git restore <filename>
+
+#how to find difference
+git diff
+
