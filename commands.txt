@@ -19,3 +19,7 @@ git restore <filename>
 #how to find difference
 git diff
 
+#how to authorize
+git config --global user.name "username"
+git confi --global user.email "email"
+
