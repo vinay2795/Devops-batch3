@@ -36,3 +36,12 @@ git push origin master
 
 #how to pull any changes from github
 git pull
+
+#how to create and checkout new branch
+git checkout -b <branchname>
+
+#to check number of branches
+git branch
+
+#merge branch
+git merge <branchname>
