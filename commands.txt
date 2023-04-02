@@ -45,3 +45,16 @@ git branch
 
 #merge branch
 git merge <branchname>
+
+#fetch all the remote branches
+git fetch
+
+#Remove branch from git
+git branch -d <branchname>
+
+#push your local changes to local branch
+git push origin <branch name>
+
+#pull your remote changes to the local branch
+git pull origin <branch name>
+
